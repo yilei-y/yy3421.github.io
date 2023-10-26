@@ -1,12 +1,35 @@
 ---
-title: "My awesome website"
+title: "My  awesome website"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
 
+Add text
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Subsection
+
+Blah
+
+# Links
+
+Link to some useful links:
+
+* [Google](https://www.google.com/)
+* [P8105](https://p8105.com)
+
+
+# Local image
+Screen photo:
+![](images/screen.jpg)
+
+# Link to page within a site
+[About me](about.html)
+
+
+
